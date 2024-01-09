@@ -1,2 +1,2 @@
-This is my portfolio and cointains a few course assignments.
+This portfolio cointains a few course assignments and my projects.
 
